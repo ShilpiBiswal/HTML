@@ -1,0 +1,9 @@
+h1 {
+  border-style: dashed;
+  border-width: 3px;
+}
+p {
+  font-family: "lucida console", "courier new";
+  font-size: 1px;
+  font-weight: bold;
+}
